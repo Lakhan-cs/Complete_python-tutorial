@@ -1,2 +1,6 @@
 ipykernel
-pip intall pandas numpy matplotlib sci-kit learn seaborn
+pandas
+numpy
+matplotlib
+scikit-learn 
+seaborn
